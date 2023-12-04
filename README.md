@@ -1,7 +1,7 @@
 DS Projects
 
-1- Movie Prediction
+1- Titanic Survival Prediction
 
-2-
+2- Movies Rating Prediciton
 
-3-
+3- 
